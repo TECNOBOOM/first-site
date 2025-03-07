@@ -46,11 +46,11 @@
 }
 
 #main {
-  background-image: url(png/);
+  background-image: url(png/surprize.jpg);
   background-size: auto;
   width: 1370px;
   height: 800px;
-  background-position: left;
+  background-position: 100px center;
   background-repeat: no-repeat;
   margin-top: 100px;
   float: left;
@@ -84,4 +84,16 @@
   background: #ee59ca;
   color: white;
   cursor: pointer;
+}
+
+p {
+  font-family: "Caveat", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  float: center;
+  text-align: right;
+  color: black;
+  font-size: 46px;
+  -webkit-text-stroke-width: 0px;
 }
